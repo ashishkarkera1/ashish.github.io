@@ -185,7 +185,9 @@ hr.light-100{
   #toggle{
     transform: translateY(-40%);
   }
-  
+  .social a{
+  font-size: 3em;
+  padding: 2rem;
 }
 @media (min-width: 800px) {
   .carousel-caption{
